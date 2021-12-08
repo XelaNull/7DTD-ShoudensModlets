@@ -19,7 +19,7 @@
   <set xpath="/recipes/recipe[@name='resourceLockPickBundle']/@craft_time">150</set>
   <set xpath="/recipes/recipe[@name='keystoneBlock']/@craft_time">15</set>
   <set xpath="/recipes/recipe[@name='foodHoboStew']/@craft_time">32</set>
-  <set xpath="/recipes/recipe[@name='farmPlotBlockPlayer']/@craft_time">10</set>
+  <set xpath="/recipes/recipe[@name='farmPlotBlockVariantHelper']/@craft_time">10</set>
   <set xpath="/recipes/recipe[@name='drinkJarBoiledWater']/@craft_time">20</set>
   <set xpath="/recipes/recipe[@name='ammoRocketHE']/@craft_time">15</set>
   <set xpath="/recipes/recipe[@name='ammoRocketFrag']/@craft_time">20</set>
@@ -40,7 +40,7 @@
   <set xpath="/recipes/recipe[@name='ammoShotgunBreachingSlug']/@craft_time">4</set>
   <set xpath="/recipes/recipe[@name='ammoBundleShotgunSlug']/@craft_time">180</set>
   <set xpath="/recipes/recipe[@name='ammoBundleShotgunShell']/@craft_time">120</set>
-  <set xpath="/recipes/recipe[@name='ammoBundleBlunderbuss']/@craft_time">120</set>
+  <!-- <set xpath="/recipes/recipe[@name='ammoBundleBlunderbuss']/@craft_time">120</set> -->
   <set xpath="/recipes/recipe[@name='ammoBundle762mmBulletAP']/@craft_time">180</set>
   <set xpath="/recipes/recipe[@name='ammoBundle762mmBulletHP']/@craft_time">180</set>
   <set xpath="/recipes/recipe[@name='ammoBundle762mmBulletBall']/@craft_time">120</set>
@@ -66,5 +66,5 @@
   <setattribute xpath="/recipes/recipe[@name='trapSpikesIronDmg0']" name="craft_time">20</setattribute>
   <setattribute xpath="/recipes/recipe[@name='trapSpikesIronDmg0']" name="craft_area">workbench</setattribute>
   <setattribute xpath="/recipes/recipe[@name='trapSpikesIronDmg0']" name="tags">workbenchCrafting</setattribute>
-	
+
 </configs>
