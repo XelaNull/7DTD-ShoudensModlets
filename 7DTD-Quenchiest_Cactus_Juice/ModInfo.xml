@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
-	<ModInfo>
 		<Name value="Quenchiest Cactus Juice" />
+		<DisplayName value="Quenchiest Cactus Juice" />
 		<Description value="Adds ability to obtain murky water from cactuses." />
 		<Author value="Shouden Kalferas, originating idea from Aeyvi Kalferas"/>
-		<Version value="A20_1.0" />
+		<Version value="1.0_1.0a" />
 		<Website value="https://github.com/XelaNull/7DTD-ShoudensModlets.git" />
-	</ModInfo>
 </xml>
