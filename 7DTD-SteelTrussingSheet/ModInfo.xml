@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
-		<Name value="Steel Trussing Sheet" />
+		<Name value="SteelTrussingSheet" />
 		<DisplayName value="Steel Trussing Sheet" />		
 		<Description value="Adds a steel trussing sheet." />
 		<Author value="Shouden Kalferas"/>
-		<Version value="1.0_1.0a" />
+		<Version value="1.0.1.1" />
 		<Website value="https://github.com/XelaNull/7DTD-ShoudensModlets.git" />
 </xml>

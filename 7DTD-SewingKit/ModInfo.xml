@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
-		<Name value="Craftable Sewing Kit" />
+		<Name value="CraftableSewingKit" />
 		<DisplayName value="Craftable Sewing Kit" />		
 		<Description value="Adds ability to craft the sewing kit." />
 		<Author value="Shouden Kalferas, originating idea from Aeyvi Kalferas"/>
-		<Version value="1.0_1.0a" />
+		<Version value="1.0.1.1" />
 		<Website value="https://github.com/XelaNull/7DTD-ShoudensModlets.git" />
 </xml>

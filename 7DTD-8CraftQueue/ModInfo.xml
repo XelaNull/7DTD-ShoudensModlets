@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
-        <Name value="8-slot Crafting Queue" />
+        <Name value="8slotCraftingQueue" />
         <DisplayName value="8-slot Crafting Queue" />
         <Description value="This modlet changes the players crafting queue from 4 slots to 8 slots." />
         <Author value="KhaineGB, Modified by Shouden Kalferas" />
-        <Version value="1.0_1.0a" />
+        <Version value="1.0.1.1" />
         <Website value="https://gitlab.com/KhaineGB/khaines-modlets-a19/" />
 </xml>
