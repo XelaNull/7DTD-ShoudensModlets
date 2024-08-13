@@ -4,6 +4,6 @@
 		<DisplayName value="Faster Crafting" />
 		<Description value="Decreases craft time of most recipes by 50 percent." />
 		<Author value="lurch840, Modified by Shouden Kalferas"/>
-		<Version value="1.0.1.0.1" />
+		<Version value="1.0.1.0" />
 		<Website value="https://github.com/XelaNull/7DTD-ShoudensModlets.git" />
 </xml>
