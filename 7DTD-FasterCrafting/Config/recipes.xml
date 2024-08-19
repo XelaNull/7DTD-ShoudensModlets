@@ -2,7 +2,8 @@
   <!-- The purpose of this modlet is to reduce the craft time on a handful of items only -->
   <!-- No point in bothering to adjust the recipes that have a craft_time of 1 thru 3, as its already so short -->
   <!-- Add more entries if you want to include those recipes too. This is a very simple modlet to modify -->
-  <set xpath="/recipes/recipe[starts-with(@name, 'vehicle4x4')]/@craft_time">105</set>
+  
+  <set xpath="/recipes/recipe[starts-with(@name, 'vehicleTruck4x4')]/@craft_time">105</set>
   <set xpath="/recipes/recipe[starts-with(@name, 'vehicleBicycle')]/@craft_time">15</set>
   <set xpath="/recipes/recipe[starts-with(@name, 'vehicleMotorcycle')]/@craft_time">75</set>
   <set xpath="/recipes/recipe[starts-with(@name, 'vehicleMinibike')]/@craft_time">45</set>
