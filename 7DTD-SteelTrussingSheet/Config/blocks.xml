@@ -24,7 +24,7 @@
       <property name="RandomTintColor1" value="255,255,0" /> 
     </block>
     
-    <block name="Steel Trussing Sheet">
+    <block name="SteelTrussingSheet">
       <property name="Extends" value="SteelNoUpgradeMaster"/>
       <property name="CustomIcon" value="metalTrussingSheet"/>
       <property name="CustomIconTint" value="ffff00"/>
@@ -34,8 +34,8 @@
     	<property name="Collide" value="movement,melee,rocket"/>
     	<property name="SortOrder2" value="0703"/> <!-- SortShape -->
     	<property name="Place" value="TowardsPlacerInverted"/>
-    	<property name="Mesh" value="cutout"/>
-      <property name="Texture" value="310"/>
+    	<property name="Mesh" value="transparent"/> <!-- decals, grass, opaque, terrain, transparent, water -->
+      	<property name="Texture" value="310"/>
     	<property name="Collide" value="movement,melee,rocket"/> <!-- -rocket -->
     	<property name="SortOrder1" value="40e0"/>
     	<drop event="Fall" count="0" prob="0"/>

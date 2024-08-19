@@ -4,7 +4,7 @@
   metalTrussingSheet
   -->
   <append xpath="/recipes">  
-    <recipe name="Steel Trussing Sheet" count="1">
+    <recipe name="SteelTrussingSheet" count="1">
       <ingredient name="resourceForgedSteel" count="2"/>
     </recipe>
   </append>
